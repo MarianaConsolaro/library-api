@@ -1,7 +1,8 @@
 package com.library;
 
 
-import org.junit.Assert;
+//import org.junit.Assert;
+import org.assertj.core.api.Assertions;
 import org.junit.Test;
 
 public class PrimeiroTeste {
@@ -14,8 +15,12 @@ public class PrimeiroTeste {
         //execução do teste
         int resultado = numero1 + numero2;
 
-        //verificações
-        Assert.assertEquals(15, resultado);
+        //verificação Assert - Junit
+        // Assert.assertEquals(15, resultado);
+
+        //Verificação AssertJ
+//        Assertions.assertThat(resultado).isBetween(14, 16);
+          Assertions.assertThat(resultado).isGreaterThan(10);
 
     }
 
