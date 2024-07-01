@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Mariana Consolaro, I'm a junior developer.
-[![Linkedin: mariana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-consolaro/)](https://[www.linkedin.com/in/mariana-consolaro/])
+
+[![Linkedin: mariana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-consolaro/)](https://www.linkedin.com/in/mariana-consolaro/)
 
 ## ⚡ Technologies
 
